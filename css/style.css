@@ -1,0 +1,33 @@
+body {
+  background: url("https://c1.staticflickr.com/5/4873/32211025928_626a71b97d_b.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.label {
+  position: absolute;
+  top: 0;
+  left: 0;
+  padding: 10px 15px;
+  color: #b80000;
+  font-size: 15px;
+  font-family: 'Arial Black', sans-serif;
+  background-color: rgba(0, 0, 0, 0.15);
+}
+
+.howtofly {
+  position: absolute;
+  bottom: 0%;
+  left: 0;
+  padding: 5px 15px;
+  color: #b80000;
+  font-size: 13px;
+  font-family: 'Arial Black', sans-serif;
+  background-color: rgba(0, 0, 0, 0.15);
+}
+
+canvas {
+  display: block;
+}
